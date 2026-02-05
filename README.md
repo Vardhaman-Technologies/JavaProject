@@ -87,10 +87,13 @@ Telangana, INDIA
 
 ## 🏢 Company Information
 
-- About Us  
-- Services  
-- Terms of Service  
-- Privacy Policy  
+## 🏢 Company Information
+
+- 🔗 [About Us](#about-us)
+- 🔗 [Services](#services)
+- 🔗 [Terms of Service](#terms-of-service)
+- 🔗 [Privacy Policy](#privacy-policy)
+
 
 ---
 
