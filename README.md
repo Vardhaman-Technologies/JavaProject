@@ -33,7 +33,7 @@ Our focus is on delivering reliable, scalable, and business-oriented digital sol
 
 ---
 
-## 🛠️ Services
+## 🛠️Services
 
 - **Custom Software Development**  
   Vinnasoft offers a wide range of custom IT programming services.
@@ -85,7 +85,6 @@ Telangana, INDIA
 
 ---
 
-## 🏢 Company Information
 
 ## 🏢 Company Information
 
