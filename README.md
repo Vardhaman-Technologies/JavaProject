@@ -6,7 +6,7 @@
 
 ---
 
-## 🌐 About Us
+##  About Us
 
 **Vinnasoft Technologies Pvt. Ltd.** is a rapidly growing custom development and software outsourcing company headquartered in **Hyderabad, India**.
 
@@ -33,7 +33,7 @@ Our focus is on delivering reliable, scalable, and business-oriented digital sol
 
 ---
 
-## 🛠️Services
+## Services
 
 - **Custom Software Development**  
   Vinnasoft offers a wide range of custom IT programming services.
@@ -104,14 +104,14 @@ web development, digital marketing, hosting solutions, and graphic design servic
 
 ---
 
-## 📄 Terms of Service
+##  Terms of Service
 
 All services provided by Vinnasoft Technologies Pvt. Ltd. are subject to agreed terms
 and conditions. Detailed terms will be shared during project engagement.
 
 ---
 
-## 🔐 Privacy Policy
+## Privacy Policy
 
 Vinnasoft respects client and user privacy. All personal and business information
 is handled securely and used only for intended purposes.
