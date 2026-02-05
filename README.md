@@ -95,7 +95,28 @@ Telangana, INDIA
 
 
 ---
+---
 
+## 🛠️ Services
+
+Vinnasoft offers a wide range of IT services including custom software development,
+web development, digital marketing, hosting solutions, and graphic design services.
+
+---
+
+## 📄 Terms of Service
+
+All services provided by Vinnasoft Technologies Pvt. Ltd. are subject to agreed terms
+and conditions. Detailed terms will be shared during project engagement.
+
+---
+
+## 🔐 Privacy Policy
+
+Vinnasoft respects client and user privacy. All personal and business information
+is handled securely and used only for intended purposes.
+
+---
 ## © Copyright
 
 © Vinnasoft 2025  
